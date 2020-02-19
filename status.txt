@@ -1,0 +1,7 @@
+Status
+
+Status command displays the state of working directory and the staging area.
+
+Status command lets you know what files are staged and ready to commit, and what files were added or modified. 
+Additionally, it lets you if you are up to date with the remote repo or how many commits behind you are. 
+
