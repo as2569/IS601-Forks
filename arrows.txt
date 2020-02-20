@@ -1,0 +1,5 @@
+Using up and down arrow for history: Terminal tracks your command history and keeps a record of the commands you’ve used so that you can scroll through these historical commands using the up and down arrows on your keyboard.
+
+Example: Press the Up Arrow key from the command prompt, and you’ll see the most-recently used command; each additional press moves further back through history.
+Example: Press the Down Arrow key to move forward in the history file.
+

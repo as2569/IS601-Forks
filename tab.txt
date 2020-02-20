@@ -1,0 +1,10 @@
+tab
+
+Using the tab key to complete file paths: The feature of using the tab key to complete file paths is incredibly useful in that it dramatically helps you speed up typing commands. 
+Just hit Tab while typing a command, option, or file name and the shell environment will automatically complete what you’re typing or suggest options to you.
+
+Example 1: If we have a long, complex file name beginning with the letter L, we’d just have to type L and press Tab to automatically complete it. 
+If we had multiple file names beginning with L, we’d just need to type a bit more of the file’s name before pressing Tab again.
+Example 2: Tab completion can even be used to automatically complete options for some commands. For example, when installing a package with the apt-get install command, you can use tab completion to automatically complete a package’s name. 
+This also helps you search for related packages, and is very useful when you’re not sure exactly what a package is named.
+

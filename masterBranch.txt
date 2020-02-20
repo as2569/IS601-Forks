@@ -1,0 +1,15 @@
+Master Branch: Each repository can have one or more branches. The main branch — the one where all changes eventually get merged back into, and is called master. 
+This is the official working version of your project, and the one you see when you visit the project repository at github.com/yourname/projectname. Do not mess with the master. 
+If you make changes to the master branch of a group project while other people are also working on it, your on-the-fly changes will ripple out to affect everyone else and very quickly there will be merge conflicts, weeping, rending of garments, and plagues of locusts. 
+It’s that serious.Why is the master so important to not mess with? One word: the master branch is deployable. It is your production code, ready to roll out into the world. 
+The master branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested, or that breaks the build. The entire reason GitHub works is that it is always safe to work from the master. 
+
+A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. 
+As you start making commits, you’re given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically. 
+
+Example: git checkout master – This command allows you to switch to  branch ‘master’ from other branches 
+
+git checkout master
+Switched to branch ‘master’
+Your branch is up-to-date with ‘origin/master’.
+
