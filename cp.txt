@@ -1,0 +1,9 @@
+cp
+
+The command “cp” stands for copy and is used to copy data from a source file to the destination file.
+Its function is almost like the command “mv”. The only difference is by using the command “cp” the source file is not removed from the directory after its data is moved to the destination file.
+
+Syntax: cp source_file_name destination_file_name
+Example 1: cp A B – Consider having two files (A and B) in Desktop Directory. Entering the command “cp A B” will copy all the data from file A to file B and user can still access both files (A and B).
+Example 2: cp xyz /home/myfiles – This command would copy the file “xyz” to the directory “/home/myfiles”.
+

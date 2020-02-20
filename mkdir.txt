@@ -1,0 +1,9 @@
+mkdir
+
+Make Directory
+
+This command allows users to create new directories in the system. You can specify where you want the directory created. If you do not do so, it will be created in your current working directory. THe user running this command must have suitable rights over the parent directory or they will receive an error.
+
+Syntax: mkdir New_Directory_Name
+
+Example: mkdir NewDirectory - Will create directory named NewDirectory in current working directory
