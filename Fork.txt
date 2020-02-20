@@ -1,0 +1,9 @@
+Fork: A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
+
+1. Make sure you're logged into GitHub with your account.
+2. Find the GitHub repository with which you'd like to work.
+3. Click the Fork button on the upper right-hand side of the repository's page.
+
+That's it-you now have a copy of the original repository in your GitHub account.
+
+Example: On GitHub, after you are logged in, navigate to the octocat/Spoon-Knife repository, and in the top-right corner of the page, click Fork.
