@@ -6,5 +6,6 @@ Docker containers provide a way to get a grip on software. You can use Docker to
 
 Automated testing is a field within system testing that uses a suite of tools to automate test cases that can output data, reports, and metrics to increase the efficiency and productivity of your company, while giving your personnel more time to perform other critical tasks, which helps to reduce time consumption and decrease overhead.
 
+
 Development teams adopt continuous integration (CI) to speed up and automate the software delivery lifecycle. CI, a DevOps process that is integral to continous delivery (CD), has code committed into source control and builds automatically performed "continously". Continuously integrating code improves processes in a way that benefits both IT teams and their business counterparts.
 
