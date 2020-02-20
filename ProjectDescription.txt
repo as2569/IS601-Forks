@@ -1,0 +1,10 @@
+Switching from a centralized version control system to Git changes the way your development team creates software. And, if you're a company that relies on its software for mission-critical applications, altering your development workflow impacts your entire business. One of the biggest advantages of Git is its branching capabilities. Unlike centralized control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users.
+
+
+Docker containers provide a way to get a grip on software. You can use Docker to wrap up an application in such a way that its deployment and runtime issues--how to expose it on a network, how to manage its use of storage and memory and I/O, how to control access permissions--are handled outisde of the application itself, and in a way that is consistent across all "containerized" apps. You can run your Docker container on any OS-compatibly host (Linux or Windows) that has the Docker runtime installed. Dockers offers many other benefits besides this handy encapsulation, isolation, portability, and control. Docker containers are small (megabytes). They start instantly. They have their own built-in mechanisms for versioning and component reuse. They can be easily shared via the public Docker Hub or private repository.
+
+
+Automated testing is a field within system testing that uses a suite of tools to automate test cases that can output data, reports, and metrics to increase the efficiency and productivity of your company, while giving your personnel more time to perform other critical tasks, which helps to reduce time consumption and decrease overhead.
+
+Development teams adopt continuous integration (CI) to speed up and automate the software delivery lifecycle. CI, a DevOps process that is integral to continous delivery (CD), has code committed into source control and builds automatically performed "continously". Continuously integrating code improves processes in a way that benefits both IT teams and their business counterparts.
+
