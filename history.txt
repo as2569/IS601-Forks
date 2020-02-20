@@ -1,0 +1,7 @@
+history
+
+The command “history” displays a list of all commands entered since the user started the session so it allows the user to see what commands they previously used in order to determine how they ended up at a point, or if they made any errors.
+
+Syntax: history
+Example: history – This command will show us a list of previous commands that were used so if we used “ls” and “cd”, prior to using “history”, then both “ls” and “cd” will show up in numbered format in the order in which they were used.
+
