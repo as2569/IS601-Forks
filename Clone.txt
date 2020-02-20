@@ -1,0 +1,4 @@
+Clone: Git Clone is a Git command line utility which is used to target an exisiting repository and create a clone, or copy of the target repository.
+
+	Syntax: git clone <url>
+	Example: git clone https://github.com/libgit1/libgit2 : This command allows you to clone the Git linkable library called libgit2. This creates a directory named libgit2, initializes a .git directory inside it, pulls down all the data for that repository, and checks out a working copy of the latest version. If you go into the new libgit2 directory that was just created, you'll see the project files in there, ready to be worked on or used.
