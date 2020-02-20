@@ -1,0 +1,26 @@
+file paths
+
+file paths in linux: A file path is the human-readable representation of a file or folder’s location on a computer system. Files are stored in directories in the computer’s file system and a file’s path describes how to get to that file on your system.
+Linux is based around the idea of pretty much everything being a file or directory and treats the user as an entity moving around the file system.
+As such, at any given time you will have a current working directory which is the directory that Linux sees your user as being within. This means that any time you change that directory the relative path to a specific file will change.
+
+Types of Paths
+Absolute: An absolute path is a path that describes the exact location of a file in the file system starting from the root of the file system. Here are a few examples:
+/etc/passwd
+/var/www/html/index.html
+/proc/bus/pci/devices
+Relative: A relative path describes a route to a file from your current working directory. Some examples include:
+. A single full stop denotes the current working directory.
+.. Two full stops denote the directory above the current working directory.
+~ The tilde denotes the current user’s home directory.
+After the initial characters the path is written similarly to before:
+./file.txt
+../file.txt
+~/file.txt
+The double full stop characters may be repeated within the path to move multiple directories up from the current working directory.  Each double full stop denotes moving up a single directory:
+../../../file.txt
+
+More examples: Regarding the Linux filesystem, the '/' at the start of a path indicates the root/top level of the file-system. It doesn't necessarily refer to any single drive per se.
+cd / – This command would take me to the root of the filesystem.
+cd /media/ – This command would take me to the media directory, which is off the root of the file-system. Incidentally, the media directory is where any removable USB storage devices will be listed.
+
