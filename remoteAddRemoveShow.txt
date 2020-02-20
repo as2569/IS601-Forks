@@ -1,0 +1,43 @@
+Remote Add / Remove / Show
+Remote Add: The “remote add” command allows you to  add a new remote. In order to do this, you must use the git remote add command on the terminal in the directory your repository is stored at.
+
+The git remote add command takes two arguments:
+A remote name, for example, origin
+A remote URL, for example, https://github.com/user/repo.git
+Example:
+$ git remote add origin https://github.com/user/repo.git
+Set a new remote
+
+$ git remote -v
+Verify new remote
+> origin  https://github.com/user/repo.git (fetch)
+> origin  https://github.com/user/repo.git (push)
+Remove: The command “git-rm” removes files from the working tree, the index, and the repository.
+        
+Example: In order to remove a file added in the most recent unpushed commit
+(If the file was added with your most recent commit, and you have not pushed to GitHub, you can delete the file and amend the commit):
+Open Terminal.
+Change the current working directory to your local repository.
+To remove the file, enter git rm --cached:
+$ git rm --cached giant_file 
+Stage our giant file for removal, but leave it on disk
+
+Commit this change using --amend -CHEAD:
+$ git commit --amend -CHEAD
+Amend the previous commit with your change
+Simply making a new commit won't work, as you need
+to remove the file from the unpushed history as well
+
+Push your commits to GitHub:
+$ git push
+Push our rewritten, smaller commit
+
+Show: The command “git-show” shows various types of objects. Shows one or more objects (blobs, trees, tags and commits).
+Synopsis: git show [<options>] [<object>…​]
+For commits it shows the log message and textual diff. It also presents the merge commit in a special format as produced by git diff-tree --cc.
+For tags, it shows the tag message and the referenced objects.
+For trees, it shows the names (equivalent to git ls-tree with --name-only).
+For plain blobs, it shows the plain contents.
+The command takes options applicable to the git diff-tree command to control how the changes the commit introduces are shown.
+Example: <object>... – This command will show the names of the objects.
+
