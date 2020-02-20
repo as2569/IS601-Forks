@@ -1,0 +1,7 @@
+rm
+
+rm: The command “rm” stands for remove and it is used to remove files from the directory.
+
+Syntax: rm file’s_name
+Example: rm Test_File – This command will remove the file “Test_File” from the directory we are working in.
+
