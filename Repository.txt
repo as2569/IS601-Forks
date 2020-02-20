@@ -1,0 +1,7 @@
+Repository: Git is a program that tracks changes made to files. Once installed, Git can be initialized on a project to create a Git repository. A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time. Meaning, if you delete the .git/folder, then you delete your project's history.
+
+Example: git init : This command allows users to create a new local repository.
+Example: git clone/path/to/repository : This command allows users to create a working copy of a local repository.
+Example: git clone username@hosst:/path/to/repository : This command allows users to check out a repository using a remote server.
+Example: git remote add origin <server> : This command allows users to connect to a remote server so they use this command to add the server to be able to push to it.
+Example: git remote -v : This command allows users to see the list of all currently configured remote repositories.
