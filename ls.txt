@@ -1,0 +1,7 @@
+ls
+
+ls: The command “ls” lists all of the files and folders in your current working directory so you can see what you already have. You can also specify paths to other directories if you want to view their contents.
+
+Syntax: ls
+Example: ls – This command would let us know what files and folders we have in our current working directory so, if for example we were within the Desktop directory, we would find a list of files (Examples: File1, File2, Test, etc.)
+

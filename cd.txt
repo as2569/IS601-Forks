@@ -1,0 +1,10 @@
+cd
+
+cd: The command “cd” stands for change directory and it is used to change the current directory the user is operating in via Terminal. Just type cd followed by the folder name. You can use full paths to folders or simply the name of a folder within the directory you are currently working. Some common uses are:
+cd /  – Takes you to the root directory.
+cd .. – Takes you up one directory level.
+cd –  – Takes you to the previous directory.
+Here are some examples to how to use cd command in Ubuntu:
+Example 1: cd home – This command opens home folder in current directory.
+Example 2: cd desktop – This command takes you from Directory /home/user to the destination directory which is /home/user/Desktop.
+

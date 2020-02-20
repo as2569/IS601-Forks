@@ -1,0 +1,20 @@
+home directory and ~
+
+A home directory is a directory which contains the personal files of a particular user of the system. The tilde (~) symbol stands for your home directory and it is used as a shortcut to get to your home directory. If you are user, then the tilde (~) stands for /home/user. 
+
+Whenever you add a user to Ubuntu, either by installing Ubuntu or manually adding a new user, Ubuntu creates a /home/username directory for that user with their username. The /home/username directory is often referred to as just "the home directory". 
+About the home directory
+You can have as many /home/username directories as you have users. 
+Each user has full read/write/execute access to his or her /home/username directory. 
+Each user can make their /home/username directory unreadable by other users. 
+Each user can fully customize their Desktop layout/background, sounds, window manager, applications, etc. 
+
+The home directory is: 
+Where your Desktop resides. 
+Where your documents, pictures, music, videos, audio, and pretty much everything else can be stored. 
+Where your application settings are stored, in hidden files and directories (their names start with a . ) that you should not touch unless you know what you are doing.
+Eg, /home/username/.thunderbird contains your Thunderbird emails and contacts, /home/username/.mozilla contains Firefox bookmarks, passwords, history, plugins… 
+The only place (with the exclusion of removable drives and the /tmp directory) within the Ubuntu file system where a user can freely create/modify/remove files and directories without needing root permissions or the sudo command.
+Example: /home/Ar/Pictures/waterfall.jpg OR ~/Pictures/waterfall.jpg – Most users interact primarily with their home directory, so the tilde (~) character is used as a shorthand.
+This means that I can express an example waterfall picture as either /home/Ar/Pictures/waterfall.jpg or as ~/Pictures/waterfall.jpg.
+
