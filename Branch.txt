@@ -1,0 +1,8 @@
+In Git, branches are a part of your everyday development process. Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug, no matter how big or how small, you spawn a new branch to encapsulate your changes. This makes it harder for unstable code to get merged into the main code base, and it gives you the chance to clean up your future history before merging it into the main branch.
+
+Example: git branch : This command lists out all of your branches
+Example: git branch <branch> : This command creates a new branch called <branch>. This does not check out the new branch.
+Example: git branch -a : This command lists all remote branches.
+Example: git branch -d <branch> : This command deletes the specified branch. This is a "safe" operation in that Git prevents you from deleting the branch if it has unmerged changes.
+Example: git branch -D <branch> : This command deletes the specified branch, even if it has unmerged changes. This is the command to use if you want to permanently throw away all of the commits associated with a particular line of development.
+Example: git branch -m <branch> : This command renames the current branch to <branch>.
