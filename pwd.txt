@@ -1,0 +1,7 @@
+pwd
+
+The command “pwd” stands for print working directory and it displays the path of the current directory user is operating in via Terminal.
+
+Syntax: pwd
+Example: pwd – This command would let us know what directory we were in so as an example the output would be /home/test if we were using an account labeled “test@ubuntu” and we were in the home directory.
+
