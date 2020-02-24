@@ -12,7 +12,7 @@
 
 
 ###### Index
-[ProjectDescription](https://github.com/as2569/IS601-Forks/blob/master/ProjectDescription.txt)
+[ProjectDescription](https://github.com/as2569/IS601-Forks/blob/master/ProjectDescription.txt)\n
 [Branch](https://github.com/as2569/IS601-Forks/blob/master/Branch.txt)
 [Checkout](https://github.com/as2569/IS601-Forks/blob/master/Checkout.txt)
 [Clone](https://github.com/as2569/IS601-Forks/blob/master/Clone.txt)
