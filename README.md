@@ -9,3 +9,6 @@
 * 2/20 Adam added ls, mv, rm, history, filePaths, tabs and arrow file
 * 2/20 Adam added masterBranch and remoteAddRemoveShow files
 * 2/20 Ariana added Repository, Clone, Fork, Branch, Commit, Merge, Checkout, Push, and Pull files
+
+
+[Branch](https://github.com/as2569/IS601-Forks/master/Branch.txt)
