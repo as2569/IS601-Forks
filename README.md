@@ -11,4 +11,4 @@
 * 2/20 Ariana added Repository, Clone, Fork, Branch, Commit, Merge, Checkout, Push, and Pull files
 
 
-[Branch](https://github.com/as2569/IS601-Forks/master/Branch.txt)
+[Branch](https://github.com/as2569/IS601-Forks/blob/master/Branch.txt)
